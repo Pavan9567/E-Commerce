@@ -41,7 +41,7 @@
     transition:all 1s ease;
 }
 .main{
-    background-image: url("10.jpg");
+    background-image: url("images/10.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -466,7 +466,7 @@
 }
 .feed{
     padding: 50px;
-    background-image: url('29.jpg');
+    background-image: url('images/29.jpg');
     background-size: cover;
 }
 .feed h2{
